@@ -1,1 +1,3 @@
+br\com\carstore\model\Car.class
+br\com\carstore\dao\CarDao.class
 br\com\carstore\servlet\CreateCarServlet.class
